@@ -15,7 +15,7 @@ MERN Stack Developer
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
 - 😄 Pronouns: Techie
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=rF8HWpbMXJQS&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" /><img height="40" width="40" src="https://img.icons8.com/?size=100&id=rF8HWpbMXJQS&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 <img height="50" width="80" src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" />
 ### IDE and Tools I Use
